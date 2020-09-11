@@ -1,4 +1,4 @@
-# Healthcare-and-Covid-
+# Healthcare and Covid
 
 ## Team Members
 * Behrouz Zand
