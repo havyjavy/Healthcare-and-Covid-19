@@ -1,0 +1,12 @@
+I am writing the questions and answers we have analyzed with our data so far with each person in the group doing the analysis and plotting. Please add any more question/answers I have left out.  Feel free to add any new question/answers you have done as well, and would like to include. 
+
+
+1) What states have the highest COVID19 Infections? Deaths? (Behrouz)
+2) What states are outliers for COVID19 infections? Deaths? (Behrouz)
+3) How strong is the relationship between COVID19 infections and deaths? (Behrouz)
+4) Do states with the higher uninsured healthcare rates have higher covid-19 infections rates? (Javier)
+5) Do states with the higher uninsured healthcare rates have higher covid-19 death rates? (Javier)
+6) Do states with the higher healthcare costs per capita have higher covid-19 infections rates per capita? (Shimsy)
+7) Do states with the higher healthcare costs per capita have higher covid-19 infections rates per capita? (Shimsy)
+8) Do states with low mask usage have higher rates of covid19 infections? (Show Heatmap from NYTimes data from survey on state level) (Javier)
+9) Does higher mask use correlate to income levels? (Germaine)
