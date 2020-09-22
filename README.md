@@ -1,4 +1,4 @@
-# Healthcare and Covid
+# Behavioral Economic Factors and Covid-19
 
 ## Team Members
 * Behrouz Zand
@@ -7,37 +7,25 @@
 * Shimsy Varkey
 * Kaylon Young
 
-## Github Link
-The project github link can be found [here](https://github.com/havyjavy/Healthcare-and-Covid-19). 
-
-
-
 ## Description
-The purpose of this project is to look at the barrier of health care and health insurance by state and determine if there is any relationship to covid-19 infection and mortality rates.  Data will also be examined by age, race, and income.
+The purpose of this project is to look at the mask use, income and healthcare cost and determine if they have an effect on Covid-19 infections and deaths in the United States.
 
 ## Questions
-* Do states with the higher health care cost have higher covid-19 infections rates?
-* Do states with the higher health care cost have higher covid-19 mortality rates?
-* Is age a factor?
-* Does income level effect this as well?
-* Does higher mask use correlate to income levels? Education levels? Race/ethnicity?
+* How strong is the relationship between COVID19 infections and deaths?
+* Do states with higher healthcare costs per capita have higher covid-19 infections and/or mortality rates per capita?
+* Do states with higher uninsured healthcare rates have higher covid-19 infections and/or mortality rates? 
+* Do states with low mask usage have higher rates of covid19 infections?
+* Does higher mask use correlate to income levels?
+
 
 ## Datasets
 * [Covid Tracking Project](https://covidtracking.com/data/api)
 * [New York Times Covid-19 Data](https://github.com/nytimes/covid-19-data)
-* [CDC Barriers & Costs of Healthcare](https://github.com/nytimes/covid-19-data)
+* [Center for Medicaid and Medicare Services (CMS) Total All Payers Per Capita State Estimates by State of Residence 2014 - Personal Health Care (Millions of Dollars)](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence)
 * [Census Data](https://www.census.gov/data/developers/data-sets/acs-5year.html)
-    * B01002	MEDIAN AGE BY SEX
     * B01003	TOTAL POPULATION
-    * B02001	RACE
-    * B17001	POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE
     * B19013	MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)
     * B27001	HEALTH INSURANCE COVERAGE STATUS BY SEX BY AGE
-    * B27010	TYPES OF HEALTH INSURANCE COVERAGE BY AGE
-    * B27015	HEALTH INSURANCE COVERAGE STATUS AND TYPE BY HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)
-    * B27019	HEALTH INSURANCE COVERAGE STATUS AND TYPE BY AGE BY EDUCATIONAL ATTAINMENT
-    * B27020	HEALTH INSURANCE COVERAGE STATUS AND TYPE BY CITIZENSHIP STATUS
-    * C27012	HEALTH INSURANCE COVERAGE STATUS AND TYPE BY WORK EXPERIENCE
 
 ## Breakdown of Tasks
 * Kaylon will review of census dataset
