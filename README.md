@@ -8,7 +8,7 @@
 * Kaylon Young
 
 ## Description
-The purpose of this project is to look at the mask use, income and healthcare cost and determine if they have an effect on Covid-19 infections and deaths in the United States.
+Our team wanted to tell the story of covid-19 in the United States and the effects of mask use, income and healthcare cost on infections and deaths. 
 
 ## Questions
 * How strong is the relationship between COVID19 infections and deaths?
@@ -16,6 +16,16 @@ The purpose of this project is to look at the mask use, income and healthcare co
 * Do states with higher uninsured healthcare rates have higher covid-19 infections and/or mortality rates? 
 * Do states with low mask usage have higher rates of covid19 infections?
 * Does higher mask use correlate to income levels?
+
+## Repository Organization
+*   Powerpoint Presentation is located in the main repository folder
+*   Project write-up is located in the main repository folder
+*   Notebook folder is the final project folder. It contains:
+    *   4 notebooks
+    *   Input folder which contains csv datasets imported into notebooks.
+    *   Output folder which contains images or data exported from the notebooks
+*   Miscellaneous
+    *   This is a working folder.  It does not contain any final products.  Open at your peril. 
 
 
 ## Datasets
