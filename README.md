@@ -18,8 +18,8 @@ Our team wanted to tell the story of covid-19 in the United States and the effec
 * Does higher mask use correlate to income levels?
 
 ## Repository Organization
-*   Powerpoint Presentation is located in the main repository folder
-*   Project write-up is located in the main repository folder
+*   Powerpoint Presentation is located in the main repository folder [here](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Behavioral_Economic_Factors_and_COVID-19.pptx). 
+*   Project write-up is located in the main repository folder [here](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Behavorial_Economic_Factors_and_COVID-19.docx).
 *   Notebook folder is the final project folder. It contains:
     *   4 notebooks
     *   Input folder which contains csv datasets imported into notebooks.
