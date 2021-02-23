@@ -12,10 +12,24 @@ Our team wanted to tell the story of covid-19 in the United States and the effec
 
 ## Questions
 * How strong is the relationship between COVID19 infections and deaths?
+
+![img](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Notebooks/Output/Covid19_State_Infections_Deaths_LR.png)
+
 * Do states with higher healthcare costs per capita have higher covid-19 infections and/or mortality rates per capita?
+
+![img](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Notebooks/Output/Covid19_MortalityVHealthcareCosts.png)
+
 * Do states with higher uninsured healthcare rates have higher covid-19 infections and/or mortality rates? 
+
+![img](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Notebooks/Output/Covid19_UninsuredVInfection.png)
+
 * Do states with low mask usage have higher rates of covid19 infections?
+
+![img](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Notebooks/Output/Mask_Always_Transparent.png)
+
 * Does higher mask use correlate to income levels?
+
+![img](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Notebooks/Output/Covid19_MaskUsage_Income.png)
 
 ## Repository Organization
 *   Powerpoint Presentation is located in the main repository folder [here](https://github.com/havyjavy/Healthcare-and-Covid-19/blob/master/Behavioral_Economic_Factors_and_COVID-19.pptx). 
